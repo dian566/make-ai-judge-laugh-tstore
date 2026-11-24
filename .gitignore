@@ -1,0 +1,7 @@
+kit/
+kit.tar.gz
+requirements.json
+ENTRY-DRAFT.md
+__pycache__/
+*.pyc
+bundle-*.tar.gz
